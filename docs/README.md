@@ -1,9 +1,6 @@
 # mju-sda-mini-project
 명지대학교 통계적 데이터분석 미니 프로젝트 레포지터리
 
-# BDP-team7
-2024-2 빅데이터프로그래밍 기말 프로젝트
-
 ## 디렉토리
 https://github.com/mju-sda-mini-project
 ```
