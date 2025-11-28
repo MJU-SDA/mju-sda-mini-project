@@ -7,7 +7,7 @@ https://github.com/mju-sda-mini-project
 ├── data/                  # 수집한 데이터 저장 디렉토리
 │   ├── 1.raw/             # 원본 데이터
 │   ├── 2.processed/       # 전처리 완료된 데이터
-│   ├── 3.output/          # 분석 결과 및 모델 학습 결과
+│   ├── 3.output/          # 분석 결과 및 회귀 결과
 |   |── 4.etc/             # 사용여부가 정해지지 않은 데이터
 │
 ├── src/                   # 코드 디렉토리
